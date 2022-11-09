@@ -39,7 +39,7 @@ spring:
 
   otp:
     base-url: https://mpy3e9.api.infobip.com
-    api-key: 7bf6dd8cd44d5ab95cac10acfc996313-58fcf5f6-42af-4727-9fbc-e3352e534e41
+    api-key: token
     sender: infoSMS
 
   person:
